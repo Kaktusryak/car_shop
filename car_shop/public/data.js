@@ -1,0 +1,92 @@
+export default[
+    {
+        id:1,
+        brand:'Mitsubishi',
+        model:'L300 Mobil Box',
+        year:2005,
+        color:'white',
+        used:true,
+        doors:3
+    },
+    {
+        id:2,
+        brand:'Ferrari',
+        model:'250 GT Berlinetta Passo Corto',
+        year:2007,
+        color:'red',
+        used:false,
+        doors:3
+    },
+    {
+        id:3,
+        brand:'Aston Martin',
+        model:'DBS',
+        year:1970,
+        color:'blue',
+        used:false,
+        doors:3
+    },
+    {
+        id:4,
+        brand:'Daihatsu',
+        model:'Charade',
+        year:1977,
+        color:'orange',
+        used:false,
+        doors:5
+    },
+    {
+        id:5,
+        brand:'LuAZ',
+        model:'969',
+        year:1966,
+        color:'pastel',
+        used:true,
+        doors:3
+    },
+    {
+        id:6,
+        brand:'Chrysler',
+        model:'160',
+        year:1979,
+        color:'blue',
+        used:true,
+        doors:5
+    },
+    {
+        id:7,
+        brand:'Alfa Romeo',
+        model:'Giulia (952)',
+        year:2016,
+        color:'red',
+        used:false,
+        doors:5
+    },
+    {
+        id:8,
+        brand:'Lancia',
+        model:'Delta Integrale',
+        year:1979,
+        color:'blue',
+        used:false,
+        doors:5
+    },
+    {
+        id:9,
+        brand:'Mitsubishi',
+        model:'Lancer 9',
+        year:2007,
+        color:'red',
+        used:false,
+        doors:5
+    },
+    {
+        id:10,
+        brand:'Opel',
+        model:'Speedster',
+        year:2000,
+        color:'grey',
+        used:false,
+        doors:5
+    },
+]
